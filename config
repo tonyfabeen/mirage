@@ -1,0 +1,7 @@
+{
+	"port": "5435",
+	"channels": [
+		"monster",
+		"dragon"
+	]
+}
